@@ -1,4 +1,4 @@
-# Cascade Tecnologies (IT Management Business Website)
+# Cascade Technologies (IT Management Business Website)
 
 A website for an IT Management Business. This website was created with the purpose to provide an online presence and information for a small business. 
 
